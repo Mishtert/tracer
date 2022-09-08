@@ -2,15 +2,13 @@ import streamlit as st
 
 import meta
 import fitz
-import requests
-from bs4 import BeautifulSoup
 
-from best_seller import get_items
+
 from pharmap_url import get_link_mapped
 from summarize import get_summary_app
 from utils.results_utils import get_brief, ReadPDFFile, PopulateDict
-from utils.utils import load_image_from_local, local_css, pure_comma_separation, remote_css
-from examples import CATEGORY_LIST, LINK_LIST, STUDY_LIST, FILE_LIST
+from utils.utils import load_image_from_local, local_css, remote_css
+from examples import LINK_LIST, STUDY_LIST, FILE_LIST
 
 with open("bestseller.html", "r") as f:
 	html_content = f.read()
@@ -48,7 +46,7 @@ def main():
 	with col1:
 		st.markdown(meta.HEADER_INFO, unsafe_allow_html=True)
 
-		st.markdown(meta.CHEF_INFO, unsafe_allow_html=True)
+		st.markdown(meta.APP_INFO, unsafe_allow_html=True)
 
 		# st.write('<style>div.row-widget.stRadio > div{flex-direction:row;justify-content: center;} </style>',
 		#          unsafe_allow_html=True)
