@@ -1,5 +1,4 @@
 from PIL import Image
-import json
 import streamlit as st
 
 

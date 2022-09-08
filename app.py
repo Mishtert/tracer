@@ -10,13 +10,8 @@ from utils.results_utils import get_brief, ReadPDFFile, PopulateDict
 from utils.utils import load_image_from_local, local_css, remote_css
 from examples import LINK_LIST, STUDY_LIST, FILE_LIST
 
-with open("bestseller.html", "r") as f:
-	html_content = f.read()
 
 # html_content[:500]
-
-
-
 
 
 def main():
@@ -57,7 +52,8 @@ def main():
 		choose = st.radio("Choose Task", (
 		                                  "Get Therapy Area Mapped for Given Disease/s",
 		                                  "Generate Summary for Clinical Trials",
-		                                  "Generate Financial Brief for given 10-Q file"))
+		                                  "Generate Financial Brief for given 10-Q file"
+                                          ))
 
 		if choose == 'Get Therapy Area Mapped for Given Disease/s':
 

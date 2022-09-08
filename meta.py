@@ -13,13 +13,13 @@ CONCEPT_INFO = """
 """
 
 
-CHEF_INFO = """
+APP_INFO = """
 <h2 class="font-title">Welcome to Tracer! </h2>
 <p class="strong font-body">
 <span class="d-block extra-info">(your aide to help you find the specific answer in myriad of textual content in seconds)</span>
 </p>
 """.strip()
-PROMPT_BOX = "Add custom ingredients here (separated by `,`): "
+
 STORY = """<div class="story-box font-body"> <p> Hello everyone 👋, I am <strong>Tracer!</strong>.
  
 Tracer helps you to find the information that you look within seconds on a large text that would take you minutes, hours for you to go 
