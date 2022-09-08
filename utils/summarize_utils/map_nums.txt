@@ -1,0 +1,101 @@
+one,1
+three,3
+five,5
+seven,7
+nine,9
+eleven,11
+twelve,12
+thirteen,13
+fifteen,15
+seventeen,17
+nineteen,19
+twenty one,21
+twenty three,23
+twenty five,25
+twenty seven,27
+twenty nine,29
+thirty one,31
+thirty three,33
+thirty five,35
+thirty seven,37
+thirty nine,39
+forty one,41
+forty three,43
+forty five,45
+forty seven,47
+forty nine,49
+fifty one,51
+fifty three,53
+fifty five,55
+fifty seven,57
+fifty nine,59
+sixty one,61
+sixty three,63
+sixty five,65
+sixty seven,67
+sixty nine,69
+seventy one,71
+seventy three,73
+seventy five,75
+seventy seven,77
+seventy nine,79
+eighty one,81
+eighty three,83
+eighty five,85
+eighty seven,87
+eighty nine,89
+ninety one,91
+ninety three,93
+ninety five,95
+ninety seven,97
+ninety nine,99
+two,2
+four,4
+six,6
+eight,8
+ten,10
+twelve,12
+fourteen,14
+sixteen,16
+eighteen,18
+twenty,20
+twenty two,22
+twenty four,24
+twenty six,26
+twenty eight,28
+thirty,30
+thirty two,32
+thirty four,34
+thirty six,36
+thirty eight,38
+forty,40
+forty two,42
+forty four,44
+forty six,46
+forty eight,48
+fifty,50
+fifty two,52
+fifty four,54
+fifty six,56
+fifty eight,58
+sixty,60
+sixty two,62
+sixty four,64
+sixty six,66
+sixty eight,68
+seventy,70
+seventy two,72
+seventy four,74
+seventy six,76
+seventy eight,78
+eighty,80
+eighty two,82
+eighty four,84
+eighty six,86
+eighty eight,88
+ninety,90
+ninety two,92
+ninety four,94
+ninety six,96
+ninety eight,98
+one hundred,100

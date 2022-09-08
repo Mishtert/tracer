@@ -1,0 +1,206 @@
+</=,<=
+>/=,>=
+≤,<=
+≥,>=
+2nd generation,2nd-generation
+5etc times/day,5x/day
+Absorption t1/2,t1/2\a
+Adverse drug reaction,ADR
+Anti-proliferative ,Antiproliferative 
+Anti-rejection ,Antirejection 
+Area under curve,AUC
+Average concentration,Cavg
+Body-weight,Body weight
+Broad spectrum,Broad-spectrum
+Centi,c
+Clearance,Cl
+Compared to,cf
+Complete response,CR
+Composition-of-matter,Composition of matter
+Day,day
+Days,days
+Deci,d
+Decilitre,10ml
+Dose-limiting toxicities,DLTs
+Dose-limiting toxicity,DLT
+double blind,double-blind
+double masked,double-masked
+Drug concentration producing 50% maximum response,EC50
+Drug concentration that reduces response to another drug by 50%,IC50
+early stage,early-stage
+Effective dose in 50% patients,ED50
+Elimination t1/2,t1/2\b
+Every 10 days,q 10 days
+Every 3 weeks,q 3wk
+Extended Access,extended-access
+Fast track,Fast-track
+Fat rich,Fat-rich
+For 3 weeks,x3wk
+For 5 days,x5 days
+Forced Expiratory Volume in 1 sec,FEV1
+Four times a day,qid
+Graft versus host,Graft-versus-host
+Gram,g
+Half-life,t1/2
+Hour,hr
+Hours,hr
+International units,IU
+Intramuscular,im
+Intravenous,iv
+Kaplan–Meier curves,KM curves
+Kilo,k 
+Kilogram,kg
+Litre/dm3,l
+Maximum tolerated dose,MTD
+Micro,\u
+Microgram,\ug
+Milli,m
+Milligram,mg
+Millilitre/cm3,ml
+Minute,min
+Minutes,min
+Moderate to severe,Moderate-to-severe
+Molar (NB,Mlar is the same as moles/litre or moles/dm3),M
+Mole,mol
+Month,mth
+Months,mth
+Nano,n
+Nanogram,ng
+Netherlands,The Netherlands
+Non Randomized,non-randomized
+Once daily,once-daily
+Once weekly,1x/wk
+Open label,open-label
+Oral,po
+Orally,po
+Overall survival,OS
+Parallel Assignment,parallel-assignment
+Peak plasma conc.,Cmax
+per day,/day
+Pico,p
+Picogram,pg
+Placebo-controlled,placebo-controlled
+Progression-free survival,PFS
+Proof of concept,proof-of-concept
+pts,patients
+Quarter,qtr
+Randomized,randomized
+Second half of 2017,2nd half of 2017
+Second,s
+Seconds,s
+Side effects,side-effects
+Single Group,single-group
+ß,beta
+Stable disease,SD
+Subcutaneous,sc
+TEAEs,treatment-emergent adverse events
+Three times a day,tid
+Three times a week,3x/wk
+Time to disease,Time-to-disease
+Time to disease progression,Time-to-disease progression
+Time to from admin. to Cmax,Tmax
+Twice daily,bid
+Twice per week,2x/wk
+United Kingdom,The UK
+United States,The US
+Units,U
+Versus,vs
+Volume of distribution,Vd
+Week,wk
+Weeks,wk
+Well-tolerated,Well tolerated
+Year,yr
+Years,yr
+α,alpha
+γ,gamma
+δ,delta
+σ,sigma
+participants,subjects
+The purpose of this study is,
+The purpose of this study was,
+The purpose of the study is,
+The main aim of the study is,
+The objective of the trial is,
+The objective of the study is,
+to find out,to evaluate
+to demonstrate,to demonstrate
+to see,to assess
+to compare,to compare
+to evaluate,to evaluate
+to determine,to determine
+to investigate,to investigate
+study of, to evaluate
+phase 1,Phase I
+phase 2,Phase II
+phase 3,Phase III 
+phase 1/2,Phase I/II
+phase 2/3,Phase II/III
+phase i,Phase I
+phase ii,Phase II
+phase iii,Phase III 
+one,1
+two,2
+three,3
+four,4
+five,5
+six,6
+seven,7
+eight,8
+nine,9
+eleven,11
+|,/
+Placebo comparator,Placebo-controlled
+Placebo controlled,Placebo-controlled
+placebo control,Placebo-controlled
+active comparator,active-controlled
+open label,open-label 
+4-week,4 wk
+3-Week,3 wk
+British Approved Name,BAN
+International Nonproprietary Name,INN
+US Approved Name,USAN
+Acute myelogenous leukaemia,AML
+Acquired immune deficiency syndrome,AIDS
+Blood pressure,BP
+Chronic myelogenous leukaemia,CML
+Chronic Obstructive Pulmonary Disease,COPD
+Complete response,CR
+Deep vein thrombosis,DVT
+Forced Expiratory Volume in 1 sec,FEV1
+Graft Versus Host disease,GvHD
+Heart rate,HR
+Hepatitis B/C virus,HBV/HCV
+Herpes simplex virus,HSV
+Highly active antiretroviral therapy,HAART
+Human immunodeficiency virus,HIV
+Inflammatory bowel disease,IBD
+Irritable bowel syndrome,IBS
+Multiple sclerosis,MS
+Myocardial infarction,MI
+Non-steroidal anti-inflammatory drug,NSAID
+Osteoarthritis,OA
+Partial response,PR
+Rheumatoid arthritis,RA
+Severe combined immunodeficiency,SCID
+Simian immunodeficiency virus,SIV
+Stable disease,SD
+Systemic lupus erythramatosus,SLE
+Biological Licence Application,BLA
+Co-operative research and development agreement,CRADA
+European Medicine Evaluation Agency,EMEA
+European Union's Committee for Proprietary Medicinal Products,CPMP
+Food and Drug Administration,FDA
+Investigational New Drug,IND
+Intellectual Property,IP
+Marketing Authorization Approval,MAA
+Medicine Control Agency,MCA
+New Drug Application,NDA
+Prescription Drug User Fee Act,PDUFA
+tumor,tumour
+tumors,tumours
+leukemia,leukaemia
+hematological,haematological
+alzheimer's disease,Alzheimer's disease
+egfr,EGFR
+EGFR,EGFR
+gilead,GILEAD
