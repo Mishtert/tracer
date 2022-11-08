@@ -8,7 +8,7 @@ import requests
 # import os.path
 import io
 # import PyPDF2
-from pypdf.pdf import PdfFileReader
+from PyPDF2 import PdfFileReader
 from urllib.request import Request, urlopen
 from bs4 import BeautifulSoup
 from bs4.element import Comment
