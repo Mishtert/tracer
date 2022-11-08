@@ -1,7 +1,7 @@
 HEADER_INFO = """""".strip()
 SIDEBAR_INFO = """
 <div class="contributors font-body text-bold">
-<a class="contributor comma" href="https://www.cognizant.com/us/en/services/intelligent-process-automation">IPA Analytics</a>
+<a class="contributor comma" href="https://www.linkedin.com/in/mishtert/">Mishtert T</a>
 </div>
 """
 
