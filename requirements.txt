@@ -3,3 +3,4 @@ pandas
 PyPDF2
 PyMuPDF
 bs4
+tabulate
